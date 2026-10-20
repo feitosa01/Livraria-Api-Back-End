@@ -1,4 +1,4 @@
-const livroService = require('../services/LivroService');
+Aconst livroService = require('../services/LivroService');
 
 class LivroController {
   index(req, res, next) {
